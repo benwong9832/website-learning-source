@@ -4,23 +4,16 @@
 
 * [normalize.css](http://necolas.github.io/normalize.css/)
 
-## Animation
+## 動畫特效
 
 * [Animatable: One property, two values, endless possibilities](http://leaverou.github.io/animatable/)
 * [CSS Shake](http://elrumordelaluz.github.io/csshake/)
-* [Hover.css - A collection of CSS3 powered hover effects](https://ianlunn.github.io/Hover/)
 
-## loading animation
+## 載入中特效
 
 * [Single Element CSS Spinners](http://projects.lukehaas.me/css-loaders/)
 
-## 打字
+## 滑鼠特效
 
-* [Typing](http://jsfiddle.net/leaverou/y8kNx/)
-
-## 字體
-
-* [CSS SANS](http://yusugomori.com/projects/css-sans/fonts)
-
-
+* [Hover.css - A collection of CSS3 powered hover effects](https://ianlunn.github.io/Hover/)
 

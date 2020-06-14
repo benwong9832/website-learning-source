@@ -99,4 +99,5 @@
   * [文件](learning-resource-readme/learning-resource-document.md)
   * [雜項](learning-resource-readme/learning-resource-miscellaneous.md)
   * [文章](learning-resource-readme/learning-resource-article.md)
+* [Waiting process](waiting-process.md)
 
