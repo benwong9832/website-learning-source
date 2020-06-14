@@ -1,9 +1,9 @@
 # Table of contents
 
 * [介紹](README.md)
-* [Learning Helper](html-readme/README.md)
-  * [Tools](html-readme/html-learning-resource.md)
-  * [Website](html-readme/html-example.md)
+* [Learning Helper](learning-helper/README.md)
+  * [Tools](learning-helper/html-learning-resource.md)
+  * [Website](learning-helper/html-example.md)
 * [CSS](css-readme/README.md)
   * [Framework](css-readme/css-framework.md)
   * [套件](css-readme/css-plugin.md)
