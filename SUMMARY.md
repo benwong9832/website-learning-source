@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Contact](README.md)
 * [Untitled](untitled.md)
 
