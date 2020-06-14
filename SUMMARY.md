@@ -1,6 +1,7 @@
 # Table of contents
 
 * [介紹](README.md)
+* [test](test.md)
 * [Learning Helper](learning-helper/README.md)
   * [Tools](learning-helper/html-learning-resource.md)
   * [Website](learning-helper/html-example.md)
