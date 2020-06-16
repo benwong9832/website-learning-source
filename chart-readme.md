@@ -8,7 +8,6 @@
 
 * [Chart.js \| HTML5 Charts for your website.](http://www.chartjs.org/)
 * [Highcharts - Interactive JavaScript charts for your webpage](http://www.highcharts.com/)
-* [xCharts](http://tenxer.github.io/xcharts/)
 * [Cacoo - 即時協作線上製作圖表](https://cacoo.com/)
 * [Processing.js](http://processingjs.org/)
 * [D3.js - Data-Driven Documents](http://d3js.org/)

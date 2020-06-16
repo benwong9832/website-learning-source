@@ -1,7 +1,6 @@
 # Tools
 
-## tools
+## Tools
 
-* [HTML5 Boilerplate](http://html5boilerplate.com/)
-* [W3Schools Online Web Tutorials](http://www.w3schools.com/)
+* [Zeal - offline API documentation browser](http://zealdocs.org/)
 

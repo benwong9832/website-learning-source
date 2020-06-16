@@ -5,7 +5,7 @@
 * [GitHub](https://github.com/)
 * [Bitbucket](https://bitbucket.org/)
 
-## 專案管理
+## Task Management
 
 * [Trello](https://trello.com/)
 * [Online Project Management Tools & Collaboration Platform](https://redbooth.com/)
@@ -20,5 +20,5 @@
 
 ## Todo List
 
-* [Wunderlist](https://www.wunderlist.com/)
+* [Microsoft To Do](https://www.wunderlist.com/)
 

@@ -6,4 +6,5 @@
 
 * [React](http://facebook.github.io/react/)
 * [AngularJS](https://angularjs.org/)
+* [Vue](https://vuejs.org/)
 
